@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/IvanFendrykov/goit-react-hw-01-components/static/css/main.41d891f6.css",
-    "main.js": "/IvanFendrykov/goit-react-hw-01-components/static/js/main.eeff8acd.js",
-    "index.html": "/IvanFendrykov/goit-react-hw-01-components/index.html",
-    "main.41d891f6.css.map": "/IvanFendrykov/goit-react-hw-01-components/static/css/main.41d891f6.css.map",
-    "main.eeff8acd.js.map": "/IvanFendrykov/goit-react-hw-01-components/static/js/main.eeff8acd.js.map"
+    "main.css": "/IvanFendrykov/goit-react-hw-01-components.git/static/css/main.41d891f6.css",
+    "main.js": "/IvanFendrykov/goit-react-hw-01-components.git/static/js/main.eeff8acd.js",
+    "index.html": "/IvanFendrykov/goit-react-hw-01-components.git/index.html",
+    "main.41d891f6.css.map": "/IvanFendrykov/goit-react-hw-01-components.git/static/css/main.41d891f6.css.map",
+    "main.eeff8acd.js.map": "/IvanFendrykov/goit-react-hw-01-components.git/static/js/main.eeff8acd.js.map"
   },
   "entrypoints": [
     "static/css/main.41d891f6.css",
