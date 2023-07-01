@@ -19,6 +19,7 @@ export const App = () => {
       flexDirection="column"
       alignItems="center"
       justifyContent="space-between"
+      bg="backgroundColor"
     >
       <Profile
         username={user.username}

@@ -7,7 +7,7 @@ export const FriendsList = styled.ul`
   align-items: center;
   justify-content: center;
   gap: 10px;
-
+  background-color: ${props => props.theme.colors.backgroundColor};
   margin: 0 auto;
   padding: 0;
   list-style: none;

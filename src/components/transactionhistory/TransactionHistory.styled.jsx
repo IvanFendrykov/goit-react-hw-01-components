@@ -2,7 +2,6 @@ import styled from '@emotion/styled';
 
 export const Table = styled.table`
   margin: 0 auto;
-  margin-bottom: ${props => props.theme.space[5]}px;
   padding: ${props => props.theme.space[4]}px;
 
   max-width: 100%;
