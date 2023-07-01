@@ -1,4 +1,4 @@
-import styled from '@emotion/styled';
+import styled from 'styled-components';
 import { getRandomHexColor } from 'until/getrandomcalor.js';
 
 export const Section = styled.section`
