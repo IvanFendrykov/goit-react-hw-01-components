@@ -11,7 +11,7 @@ import {
   StatsDirection,
   Label,
   Quantity,
-} from './Profile.styled';
+} from './Profile.styled.jsx';
 
 export const Profile = ({ username, avatar, tag, location, stats }) => {
   return (
