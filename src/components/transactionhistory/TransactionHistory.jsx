@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { TableRow } from './transactiondata/TransactionData';
-import { Table, Thead, Tr, Th, Tb } from './TransactionHistory.styled';
+import { TableRow } from './transactiondata/TransactionData.jsx';
+import { Table, Thead, Tr, Th, Tb } from './TransactionHistory.styled.jsx';
 
 export const TransactionHistory = ({ items }) => {
   return (
