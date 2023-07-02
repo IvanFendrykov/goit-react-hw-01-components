@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { TableRow } from './TransactionData/TransactionData';
+import { TableRow } from './transactionData/TransactionData';
 import { Table, Thead, Tr, Th, Tb } from './TransactionHistory.styled';
 
 export const TransactionHistory = ({ items }) => {
