@@ -8,7 +8,7 @@ import friends from '../Data/friends.json';
 import {FriendList} from './friendlist/FriendList';
 
 import transactions from '../Data/transactions.json';
-import { TransactionHistory } from './Transactionhistory/TransactionHistory';
+import { TransactionHistory } from './transactionhistory/TransactionHistory';
 
 import {Box} from './Box.js'
 
