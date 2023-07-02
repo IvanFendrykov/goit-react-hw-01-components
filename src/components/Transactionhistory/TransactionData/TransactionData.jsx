@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { Td, Type, ExtendedTr } from './TransactionData.styled.jsx';
+import { Td, Type, ExtendedTr } from './TransactionData.styled';
 
 export const TableRow = ({ type, amount, currency, index }) => {
   return (
