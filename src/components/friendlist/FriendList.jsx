@@ -28,4 +28,4 @@ FriendList.propTypes = {
       isOnline: PropTypes.bool.isRequired,
     }).isRequired
   ).isRequired,
-};
+}
